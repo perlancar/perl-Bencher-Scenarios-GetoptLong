@@ -2,3 +2,4 @@ Bencher-Scenarios-GetoptLong-*
 .build
 *~
 nytprof*
+.DS_Store
